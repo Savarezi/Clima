@@ -52,12 +52,12 @@ Uma visão geral da análise de dados meteorológicos está disponível neste sl
 
 
 ---
+
 **Visualização de Dados**: Um gráfico de linha foi gerado, mostrando efetivamente a evolução diária da temperatura máxima, temperatura mínima e precipitação total, permitindo compreender visualmente tendências e eventos extremos.
 
-<img width="615" height="320" alt="image" src="https://github.com/user-attachments/assets/d9aacbe2-8fd8-486a-9edb-efaf910c97a8" />
+<img width="620" height="329" alt="image" src="https://github.com/user-attachments/assets/277d4e91-6bcc-460e-b382-4d9c057fe92d" />
 
-
-
+---
 
 6. **Exportação**  
    - Salva o DataFrame final em CSV: `dados_clima.csv`.
@@ -80,6 +80,7 @@ Uma visão geral da análise de dados meteorológicos está disponível neste sl
 
 ```bash
 pip install pandas plotly
+
 
 
 
