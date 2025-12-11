@@ -25,6 +25,13 @@ Uma visão geral da análise de dados meteorológicos está disponível neste sl
      - Temperatura Máxima (°C)
      - Temperatura Mínima (°C)
      - Precipitação Total (mm)
+    
+---
+    
+<img width="924" height="324" alt="image" src="https://github.com/user-attachments/assets/357c54f5-a627-41de-a3d2-0cd61e88f24d" />
+
+---
+
 
 3. **Visualização de dados**  
    - Cria um gráfico interativo usando **Plotly** com dois eixos Y:
@@ -63,3 +70,4 @@ Uma visão geral da análise de dados meteorológicos está disponível neste sl
 
 ```bash
 pip install pandas plotly
+
