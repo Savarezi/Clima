@@ -2,6 +2,13 @@
 
 Este projeto realiza a coleta, análise e visualização de dados climáticos para a cidade de São Paulo usando Python. Ele utiliza dados históricos de temperatura e precipitação do serviço **Open-Meteo**.
 
+## Arquivos do Projeto
+
+| Arquivo               | Descrição                     | Link |
+|-----------------------|-------------------------------|------|
+| app.ipynb             | Notebook da análise           | [Abrir app.ipynb](./app.ipynb) |
+| dados_clima.csv       | Dataset utilizado na análise  | [Abrir dados_clima.csv](./dados_clima.csv) |
+
 
 
 ## Apresentação
@@ -80,6 +87,7 @@ Uma visão geral da análise de dados meteorológicos está disponível neste sl
 
 ```bash
 pip install pandas plotly
+
 
 
 
